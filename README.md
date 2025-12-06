@@ -37,7 +37,7 @@ O objetivo principal deste projeto é fornecer uma plataforma aberta e reprodut�
 
 O circuito utilizado no protótipo está ilustrado abaixo:
 
-![Esquemático do Circuito](fbabb5fa-898a-45c0-8f32-a7931c454cc2.png)
+![Esquemático do Circuito](esquematico_circuito (1).png)
 
 ---
 
