@@ -104,3 +104,11 @@ O firmware utiliza as seguintes bibliotecas:
 #include <BLEServer.h>
 #include <BLEUtils.h>
 #include <BLE2902.h>
+```
+---
+
+## 7. Licença
+
+![Licença](./license.png)
+
+---
